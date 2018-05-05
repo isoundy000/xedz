@@ -1,5 +1,5 @@
-var URL = "http://www.buildcourage.cn:9100";
-//var URL = "http://localhost:9100";
+//修改为自己的远程服务器地址，初始为账号服务器端口
+var URL = "http://localhost:9100";
 var HTTP = cc.Class({
     extends: cc.Component,
 
