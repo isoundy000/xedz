@@ -1,4 +1,4 @@
-﻿var HALL_IP = "www.buildcourage.cn";
+﻿var HALL_IP = "127.0.0.1";
 var HALL_CLIENT_PORT = 9101;
 var HALL_ROOM_PORT = 9102;
 
@@ -9,9 +9,9 @@ var LOCAL_IP = 'localhost';
 
 exports.mysql = function(){
 	return {
-		HOST:'www.buildcourage.cn',
-		USER:'waynedz',
-		PSWD:'Jianyun@771406965',
+		HOST:'127.0.0.1',
+		USER:'root',
+		PSWD:'12345678',
 		DB:'db_dingzhu',
 		PORT:3306,
 	}

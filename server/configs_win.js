@@ -11,7 +11,7 @@ exports.mysql = function(){
 	return {
 		HOST:'127.0.0.1',
 		USER:'root',
-		PSWD:'jianyun@941001',
+		PSWD:'12345678',
 		DB:'db_dingzhu',
 		PORT:3306,
 	}
